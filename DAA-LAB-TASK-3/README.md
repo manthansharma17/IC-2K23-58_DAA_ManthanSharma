@@ -10,7 +10,7 @@
 The repository is organized as a flat lab folder with programs numbered to match the assignment specification:
 
 ```
-lab3/
+DAA-LAB-TASK-3/
 ├── README.md                              # Master documentation & complete lab report
 │
 ├── program1_basic_sorts.py                # Bubble Sort, Selection Sort, Insertion Sort
